@@ -14,7 +14,7 @@ https://doi.org/10.1109/IGARSS.2019.8898612
 ```
 @inproceedings{nguyen2019robust,
   title={Robust Building-Based Registration of Airborne Lidar Data and Optical Imagery on Urban Scenes},
-  author={Nguyen, Thanh Huy and Daniel, Sylvie and Gu{\'e}riot, Didier and Sintes, Christophe and Le Caillec, Jean-Marc},
+  author={Nguyen, Thanh Huy and Daniel, Sylvie and Gueriot, Didier and Sintes, Christophe and Le Caillec, Jean-Marc},
   booktitle={IGARSS 2019-2019 IEEE International Geoscience and Remote Sensing Symposium},
   pages={8474--8477},
   year={2019},
