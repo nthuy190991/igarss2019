@@ -11,6 +11,7 @@ https://arxiv.org/abs/1904.03668
 https://doi.org/10.1109/IGARSS.2019.8898612
 
 # Citation
+```
 @inproceedings{nguyen2019robust,
   title={Robust Building-Based Registration of Airborne Lidar Data and Optical Imagery on Urban Scenes},
   author={Nguyen, Thanh Huy and Daniel, Sylvie and Gu{\'e}riot, Didier and Sintes, Christophe and Le Caillec, Jean-Marc},
@@ -19,3 +20,4 @@ https://doi.org/10.1109/IGARSS.2019.8898612
   year={2019},
   organization={IEEE}
 }
+```
